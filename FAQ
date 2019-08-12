@@ -1,1 +1,32 @@
-
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Do you provide office furniture?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Where our offices are managed, we don't generally provide furniture. This is because we find most businesses want to use or buy their own, to suit their style and needs. However, if you want us to, we can supply desks and other furnishings, at an additional cost."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What's included in my office rental?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Your rent includes buildings insurance and user charges. It may also include business rates, depending on the location and size of office you will be renting. This is dependent on the local council, so please check with your centre manager."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Is Broadband Included in the Rental Price?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Yes! Since broadband internet is now pretty much essential for the vast majority of businesses, we include broadband and telecoms installations directly as part of the rental bill. These will all be pre-installed, so you can trust that when you see a studio to rent or office to let with BizSpace, you can get to work from the moment you arrive."
+                }
+            }
+        ]
+    }
+    </script>
