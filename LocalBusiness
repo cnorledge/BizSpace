@@ -1,0 +1,28 @@
+      <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "LocalBusiness",
+        "name": "BizSpace",
+        "image": "https://www.bizspace.co.uk/content/img/png/BizSpace-logo.png",
+        "@id": "https://www.bizspace.co.uk/",
+        "url": "https://www.bizspace.co.uk/",
+        "telephone": "08009750875",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2 Dollis Park",
+          "addressLocality": "London",
+          "postalCode": "N31HF",
+          "addressCountry": "GB"
+        },
+        "sameAs": [
+          "https://www.crunchbase.com/organization/bizspace-acbe",
+          "https://www.linkedin.com/company/bizspace-ltd",
+          "https://plus.google.com/u/0/+BizspaceCoUk",
+          "https://www.instagram.com/bizspaceuk/",
+          "https://www.facebook.com/BizspaceUK",
+          "https://twitter.com/BizspaceUK",
+          "https://www.yelp.co.uk/biz/bizspace-london-3",
+          "https://foursquare.com/v/bizspace/5bb4eeb9e55d8b002c952364"
+        ]
+      }
+      </script>
